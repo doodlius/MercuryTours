@@ -14,29 +14,18 @@
     <FileEntry Name="MT_Register.prm" Filter="2" />
     <FileEntry Name="globals.h" Filter="2" />
     <FileEntry Name="Userdata.dat" Filter="2" />
+    <FileEntry Name="ScriptVcsSettings.xml" Filter="2" />
     <FileEntry Name="combined_MT_Register.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
-    <FileEntry Name="93343029440.idx" Filter="1" />
+    <FileEntry Name=".gitignore" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
-    <FileEntry Name="data.zip" Filter="1" />
-    <FileEntry Name="logfile.log" Filter="1" />
-    <FileEntry Name="mdrv.log" Filter="1" />
-    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
-    <FileEntry Name="MT_Register.c.pickle" Filter="1" />
-    <FileEntry Name="MT_Register.ci" Filter="1" />
     <FileEntry Name="MT_Register.prm.bak" Filter="1" />
-    <FileEntry Name="MT_Register.sdf" Filter="1" />
-    <FileEntry Name="options.txt" Filter="1" />
-    <FileEntry Name="output.txt" Filter="1" />
-    <FileEntry Name="replay.har" Filter="1" />
     <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
     <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
-    <FileEntry Name="shunra.shunra" Filter="1" />
-    <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name=".git\" Filter="1" />
     <FileEntry Name="data\" Filter="1" />
-    <FileEntry Name="result1\" Filter="1" />
   </GeneralFiles>
 </VugenScriptMetadata>

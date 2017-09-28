@@ -55,8 +55,8 @@ Order="MainURL__*delimiter*__Register_Link__*delimiter*__Submit_Registration"
 [StateManagement]
 LastReplayStatus=1
 [ActiveReplay]
-LastReplayedRunName=result1
-ActiveRunName=result1
+LastReplayedRunName=
+ActiveRunName=
 [ParameterSimulation]
 NumVusers=5
 IsDurationIndefinite=0
